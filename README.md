@@ -65,9 +65,9 @@ python3 -m pip install -e .
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{svrbench2025,
+@misc{LLM-BabyBench,
   author = {Choukrani, Omar and Malek, Idriss and Orel, Daniil and Xie, Zhuohan and Iklassov, Zangir and Takáč, Martin and Lahlou, Salem},
-  title = {SVRPBench: A Benchmark for Stochastic Vehicle Routing Problems},
+  title = {LLM-BABYBENCH: Understanding and Evaluating Grounded Planning and Reasoning in LLMs},
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub Repository},
