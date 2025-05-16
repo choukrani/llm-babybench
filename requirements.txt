@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pyyaml
+datasets
+openai
+anthropic
