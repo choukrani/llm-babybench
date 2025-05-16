@@ -19,7 +19,7 @@ source llm-babybench/bin/activate
 3. **Install the requirements:**
 
 ```
-pip install -r requirement
+pip install -r requirements.txt
 ```
 
 ## Install Minigrid
