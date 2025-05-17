@@ -43,7 +43,7 @@ git checkout 6e713afef8d23d5280ebf28fb3fcf635d40d6a7f
 
 This ensures that you are using the exact version of this repository.
 
-4. **Install Minigrid in editable mode:**
+3. **Install Minigrid in editable mode:**
 
 In the same directory, run:
 
