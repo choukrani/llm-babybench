@@ -32,12 +32,6 @@ Next, clone the Minigrid repository and install the necessary dependencies.
 git clone https://github.com/Farama-Foundation/Minigrid.git
 ```
 
-1. **Clone the Minigrid repository:**
-
-```
-git clone https://github.com/Farama-Foundation/Minigrid.git
-```
-
 2. **Checkout the specific commit:**
 
 After cloning the repository, navigate into the project directory and checkout the commit hash:
@@ -46,31 +40,13 @@ After cloning the repository, navigate into the project directory and checkout t
 cd Minigrid
 git checkout 6e713afef8d23d5280ebf28fb3fcf635d40d6a7f
 ```
-This ensures that you are using the exact version of the repository.
 
-3. **Navigate into the Minigrid directory:**
-
-```
-cd Minigrid
-```
+This ensures that you are using the exact version of this repository.
 
 4. **Install Minigrid in editable mode:**
+
+In the same directory, run:
 
 ```
 python3 -m pip install -e .
 ```
-
-## Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{LLM-BabyBench,
-  author = {Choukrani, Omar and Malek, Idriss and Orel, Daniil and Xie, Zhuohan and Iklassov, Zangir and Takáč, Martin and Lahlou, Salem},
-  title = {LLM-BABYBENCH: Understanding and Evaluating Grounded Planning and Reasoning in LLMs},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/choukrani/llm-babybench}}
-}
-``` 
